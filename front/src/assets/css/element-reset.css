@@ -1,0 +1,12 @@
+.left-edge .el-submenu__title {
+  width: 201px;
+  height: 56px;
+  line-height: 56px;
+  text-align: left;
+  cursor: pointer;
+  box-sizing: border-box;
+  padding: 0 15px;
+}
+.left-edge .el-menu {
+  width: 201px;
+}
